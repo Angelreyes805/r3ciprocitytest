@@ -9,7 +9,7 @@ function App() {
     <iframe 
       width="100%" 
       height="100%" 
-      src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAGhAy6pUOFBVOUI0UkFROTc2VDdOWkxCQjNDNkpHNC4u&embed=true" 
+      src="https://forms.gle/pyhAGgKwisAfq5fC8" 
       frameBorder="0" 
       marginWidth="0" 
       marginHeight="0" 
